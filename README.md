@@ -1,7 +1,7 @@
 # Azure Application Gateway Terraform Module
 
-[![Lint Status](https://github.com/tothenew/terraform-azurerm-template/workflows/Lint/badge.svg)](https://github.com/tothenew/terraform-azurerm-template/actions)
-[![LICENSE](https://img.shields.io/github/license/tothenew/terraform-azurerm-template)](https://github.com/tothenew/terraform-azurerm-template/blob/master/LICENSE)
+[![Lint Status](https://github.com/tothenew/terraform-azure-template/workflows/Lint/badge.svg)](https://github.com/tothenew/terraform-azure-template/actions)
+[![LICENSE](https://img.shields.io/github/license/tothenew/terraform-azure-template)](https://github.com/tothenew/terraform-azure-template/blob/master/LICENSE)
 
 Azure Application Gateway is a web traffic (OSI layer 7) load balancer that enables you to manage traffic to your web applications. Traditional load balancers operate at the transport layer (OSI layer 4 - TCP and UDP) and route traffic based on source IP address and port, to a destination IP address and port.
 
